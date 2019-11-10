@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Dell"
+    },
+    {
+      "id": 2,
+      "name": "Lenovo"
+    },
+    {
+      "id": "4",
+      "name": "Acer"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Joao"
+    }
+  ]
+}
